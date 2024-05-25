@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed </h1>
 <h3 align="center">A passionate Web developer from Cairo</h3>
 
-- 🌱 I’m currently learning **backend .NET (SQL Server , C# , .net)**
+- 🌱 I'm a passionate software developer based in Cairo, Egypt, specializing in front-end development with React and currently expanding my skills into backend development with the .NET framework.
+-  With a strong foundation in JavaScript and React, I enjoy crafting elegant and responsive user interfaces that deliver seamless user experiences.
 
-- 💬 Ask me about **React , JS , And Soon .Net**
+
+- 💬 Ask me about **HTML , CSS , JS , REACT , Sass , Redux   , SQL Server , **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
