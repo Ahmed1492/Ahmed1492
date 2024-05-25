@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed </h1>
 <h3 align="center">A passionate Web developer from Cairo</h3>
 
+
+
+<img align ="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width ="400">
+
 - 🌱 I'm a passionate software developer based in Cairo, Egypt, specializing in front-end development with React and currently expanding my skills into backend development with the .NET framework.
 -  With a strong foundation in JavaScript and React, I enjoy crafting elegant and responsive user interfaces that deliver seamless user experiences.
 
