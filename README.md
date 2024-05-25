@@ -5,7 +5,7 @@
 -  With a strong foundation in JavaScript and React, I enjoy crafting elegant and responsive user interfaces that deliver seamless user experiences.
 
 
-- 💬 Ask me about **HTML , CSS , JS , REACT , Sass , Redux   , SQL Server , **
+- 💬 Ask me about **HTML , CSS , JS , REACT  , Redux   , SQL Server  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
