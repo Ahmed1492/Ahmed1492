@@ -5,11 +5,11 @@
 
 <img align ="right"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width ="400">
 
-- 🌱 I'm a passionate software developer based in Cairo, Egypt, specializing in front-end development with React and currently expanding my skills into backend development with the .NET framework.
--  With a strong foundation in JavaScript and React, I enjoy crafting elegant and responsive user interfaces that deliver seamless user experiences.
+- 🌱 I'm a passionate software developer based in Cairo, Egypt, specializing in front-end development with React and currently expanding my skills into backend development with Node.js.
+- With a strong foundation in JavaScript and React, I enjoy crafting elegant and responsive user interfaces that deliver seamless user experiences while building scalable backend solutions with Node.js.
 
 
-- 💬 Ask me about **HTML , CSS , JS , REACT  , Redux   , SQL Server  **
+- 💬 Ask me about  HTML, CSS, JavaScript, typeScript ,Reactjs, Nextjs , Redux, SQL Server, my Sql , and Node.js.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
