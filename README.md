@@ -1,6 +1,4 @@
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026148681262) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-8a8619259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.m.14.092@gmail.com) 
 
 ## 👨‍💻 About Me
 
@@ -13,6 +11,8 @@ From debugging layout issues to integrating APIs or designing custom visuals, I 
 🎯 My focus is on writing clean, maintainable code and constantly learning new tools that help me grow as a developer and create meaningful, user-focused solutions.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100026148681262) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mohamed-8a8619259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.m.14.092@gmail.com) 
 
 # 💻 Tech Stack:
 
