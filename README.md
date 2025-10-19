@@ -3,11 +3,14 @@
 
 <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" width="400"/>
 
-Hi, I'm **Ahmed Mohamed**, a **Full-Stack Developer** based in Cairo, Egypt 🇪🇬.  
-I build **responsive**, **scalable**, and **user-friendly** web applications using **React**, **Next.js**, **Node.js**, and **Tailwind CSS**.
+Hi, I'm **Ahmed Mohamed** — a passionate **Full-Stack Developer** based in Cairo, Egypt 🇪🇬.  
+I specialize in building **responsive, scalable**, and **visually engaging** web applications using modern technologies like **React**, **Next.js**, **Node.js**, and **Tailwind CSS**.
 
-💡 I enjoy solving problems, creating smooth UI/UX experiences, and writing clean, maintainable code.  
-I'm always learning new tools to grow as a developer and deliver meaningful digital solutions.
+💡 I enjoy solving complex problems, automating workflows, and crafting clean, intuitive **UI/UX** experiences.  
+From debugging layout issues to integrating APIs or designing custom visuals, I love transforming creative ideas into smooth, high-quality digital products.
+
+🎯 My focus is on writing clean, maintainable code and constantly learning new tools that help me grow as a developer and create meaningful, user-focused solutions.
+
 
 
 # 💻 Tech Stack:
