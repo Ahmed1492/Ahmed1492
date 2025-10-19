@@ -1,6 +1,6 @@
 
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 Hi, I'm **Ahmed Mohamed** — a passionate **Full-Stack Developer** based in Cairo, Egypt 🇪🇬.  
 I specialize in building **responsive, scalable**, and **visually engaging** web applications using modern technologies like **React**, **Next.js**, **Node.js**, and **Tailwind CSS**.
