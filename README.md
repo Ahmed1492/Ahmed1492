@@ -1,7 +1,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" width="400"/>
+<img align="right" src="https://res.cloudinary.com/ahmed149/image/upload/v1768915120/anime-style_digital_xbc5g6.png" alt="Coding" width="400"/>
 
 Hi, I'm **Ahmed Mohamed** — a passionate **Full-Stack Developer** based in Cairo, Egypt 🇪🇬.  
 I specialize in building **responsive, scalable**, and **visually engaging** web applications using modern technologies like **React**, **Next.js**, **Node.js**, and **Tailwind CSS**.
